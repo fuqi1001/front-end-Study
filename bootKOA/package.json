@@ -1,0 +1,24 @@
+{
+  "name": "bootkoa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "koa-hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qi fu <cs.qifu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "2.5.0",
+    "koa-basic-auth": "2.0.0",
+    "koa-body": "2.5.0",
+    "koa-pug": "3.0.0-2",
+    "koa-router": "7.4.0",
+    "koa-session": "5.8.1",
+    "koa-static-cache": "5.1.2",
+    "mongoose": "5.0.6"
+  },
+  "devDependencies": {
+    "koa-logger": "3.1.0"
+  }
+}
